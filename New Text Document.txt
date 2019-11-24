@@ -1,0 +1,3 @@
+$ cd smartq-foods
+$ npm install
+$ npm start
